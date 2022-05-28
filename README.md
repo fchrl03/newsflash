@@ -1,2 +1,2 @@
 # NewsFlash
-NewsFlash Blog Website With HTML &amp; CSS
+NewsFlash Blog Website With HTML, CSS &amp; Javascript
